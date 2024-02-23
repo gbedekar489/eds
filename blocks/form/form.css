@@ -1,5 +1,5 @@
 :root {
-    --background-color-primary: rgb(58, 51, 51);
+    --background-color-primary: #fff
     --label-color: #666;
     --border-color: #818a91;
     --button-primary-color: #5F8DDA;
@@ -27,7 +27,7 @@
     --form-label-font-size: var(--form-font-size-s);
     --form-label-font-weight: 400;
     --form-title-font-weight: 600;
-    --form-fieldset-border: 0;
+    --form-fieldset-border: 4;
     --form-fieldset-marign: 0;
     --form-fieldset-legend-color: var(--form-label-color);
     --form-fieldset-legend-font-size: var(--form-label-font-size);
